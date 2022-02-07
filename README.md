@@ -1,1 +1,2 @@
 # Hotel-customer-management-program
+A program in which you define two data structures: room and customer. The fields for room should be: room_id, type (single, double, ...) and price per night. The fields for customer should be: name, room_id and number_of_nights. The program must ask the number of rooms and customers from the user, allocate memory for them and read data for them. After reading the data, the program must print a list which shows which room (room_id) is occupied by which customer and displays the customer information.
